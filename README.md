@@ -1,4 +1,4 @@
-                                                                            Masterthesis
+Masterthesis
                                                                             
 Multimodal communication plays a pivotal role in the social organization of various species. 
 Multimodal recognition is a cognitive process by which different sensory modalities are integrated to form an individual representation. This process may enable animals to more effectively assess their social surroundings. While a variety of species have been demonstrated to recognize conspecifics cross-modally, little is known about the multimodal recognition of heterospecifics.
