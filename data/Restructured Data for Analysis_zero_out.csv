@@ -1,0 +1,61 @@
+Observation id_,Conditions_,Subject_,Total duration (s)_Agitated Locomotion,Total duration (s)_Gaze,Total duration (s)_Head cock stare,Total duration (s)_Isolation call,Total number of occurences_Agitated Locomotion,Total number of occurences_Ek,Total number of occurences_Gaze,Total number of occurences_Head Swaying,Total number of occurences_Head cock stare,Total number of occurences_Isolation call,Total number of occurences_Phee,Total number of occurences_Self scratch,Total number of occurences_Tsik (Single Tsik),Total number of occurences_Twitter,Total number of occurences_Whirr/Trill
+Day1,Familiar_match,Bambi,0,19.787,0,10.477,0,0,2,0,0,3,0,0,0,0,0
+Day1,Familiar_match,Blinky Bill,0,19.386,1.501,17.501,0,0,2,0,1,3,0,0,0,0,0
+Day1,Familiar_match,Jack,0,11.745,0,6.291,0,0,2,0,0,2,0,0,0,0,0
+Day1,Familiar_match,Maui,0,29.645,3.387,6.807,0,0,2,0,1,2,0,0,7,0,0
+Day1,Familiar_match,Vaiana,0,19.636,0,0,0,0,2,0,0,0,0,0,0,0,0
+Day2,Familiar_unmatch,Bambi,0,19.002,2.803,8.459,0,0,2,0,1,2,0,0,0,0,0
+Day2,Familiar_unmatch,Blinky Bill,0,10.41,0,0,0,0,2,4,0,0,0,0,0,0,0
+Day2,Familiar_unmatch,Jack,0,17.668,0,10.628,0,0,2,0,0,3,0,0,0,0,0
+Day2,Familiar_unmatch,Maui,0,11.344,0,2.252,0,0,2,0,0,1,0,2,2,0,0
+Day2,Familiar_unmatch,Vaiana,7.007,13.763,0,2.303,1,0,2,1,0,1,0,0,0,0,0
+Day3,Unfamiliar_match,Aurora,0,21.655,0,0,0,0,2,0,0,0,0,0,0,0,0
+Day3,Unfamiliar_match,Feline,0,29.512,0,0,0,0,2,0,0,0,0,0,0,0,0
+Day3,Unfamiliar_match,Kobold,13.43,25.175,0,0,1,0,2,0,0,0,0,0,7,0,0
+Day3,Unfamiliar_match,Lokri,0,26.426,0,5.488,0,0,2,4,0,2,0,0,5,0,0
+Day3,Unfamiliar_match,Melvin,0,28.846,0,0,0,0,2,0,0,0,0,0,0,0,0
+Day4,Unfamiliar_unmatch,Aurora,0,22.022,0,2.103,0,0,2,0,0,1,1,1,0,2,0
+Day4,Unfamiliar_unmatch,Feline,0,29.012,4.455,5.306,0,0,2,0,1,2,0,0,0,0,0
+Day4,Unfamiliar_unmatch,Kobold,0,11.962,0,6.69,0,0,1,0,0,2,0,0,0,0,0
+Day4,Unfamiliar_unmatch,Lokri,0,19.22,0,0,0,0,2,1,0,0,1,0,5,2,0
+Day4,Unfamiliar_unmatch,Melvin,0,32.582,0,0,0,0,2,0,0,0,0,0,0,0,0
+Day5,Familiar_match,Hr. Nilsson,1.518,7.757,0,0,1,0,2,0,0,0,0,0,0,0,0
+Day5,Familiar_match,Kiara,0,7.991,0,0,0,0,2,0,0,0,0,0,0,0,0
+Day5,Familiar_match,Matilda,0,23.458,0,2.669,0,0,3,2,0,1,1,0,1,0,0
+Day5,Familiar_match,Nala,0,15.699,0,7.674,0,0,2,0,0,3,0,0,0,0,0
+Day5,Familiar_match,Smart,0,11.161,0,3.921,0,0,2,0,0,2,0,0,0,0,0
+Day6,Familiar_unmatch,Hr. Nilsson,0,4.805,0,0,0,0,2,0,0,0,0,0,0,0,0
+Day6,Familiar_unmatch,Kiara,0,6.023,0,0,0,0,2,0,0,0,0,0,0,0,0
+Day6,Familiar_unmatch,Matilda,0,16.867,0,2.235,0,0,2,0,0,1,0,0,0,0,1
+Day6,Familiar_unmatch,Nala,2.502,10.844,0,8.759,1,0,2,0,0,3,0,0,0,2,0
+Day6,Familiar_unmatch,Smart,0,7.657,0,0,0,0,2,0,0,0,2,0,0,3,0
+Day7,Unfamiliar_match,Bambi,0,29.546,21.572,15.8,0,0,2,0,2,4,0,0,0,0,0
+Day7,Unfamiliar_match,Blinky Bill,0,31.431,0,0,0,0,3,6,0,0,0,0,0,0,0
+Day7,Unfamiliar_match,Jack,0,33.099,0,0,0,0,2,2,0,0,0,0,17,0,0
+Day7,Unfamiliar_match,Maui,0,32.516,0,0,0,20,2,0,0,0,0,0,0,0,0
+Day7,Unfamiliar_match,Vaiana,0,37.069,19.636,0,0,0,2,4,2,0,0,0,0,0,0
+Day8,Unfamiliar_unmatch,Bambi,2.486,21.822,5.339,10.694,1,0,2,2,2,3,0,0,0,0,0
+Day8,Unfamiliar_unmatch,Blinky Bill,0,9.91,0,0,0,0,2,0,0,0,0,0,0,0,0
+Day8,Unfamiliar_unmatch,Jack,0,30.914,0,12.529,0,0,2,3,0,3,0,0,3,0,0
+Day8,Unfamiliar_unmatch,Maui,0,24.757,0,11.495,0,1,2,0,0,3,0,0,1,0,0
+Day8,Unfamiliar_unmatch,Vaiana,0,28.345,0,2.937,0,2,2,6,0,1,0,0,2,0,0
+Day9,Familiar_match,Aurora,0,13.963,0,0,0,0,2,0,0,0,4,0,0,0,0
+Day9,Familiar_match,Feline,0,21.923,0,2.803,0,0,2,0,0,1,1,0,0,0,0
+Day9,Familiar_match,Kobold,0,8.125,0,0,0,0,2,0,0,0,0,0,0,0,0
+Day9,Familiar_match,Lokri,0,8.442,0,0,0,0,2,0,0,0,3,0,3,2,0
+Day9,Familiar_match,Melvin,0,31.765,0,0,0,0,2,0,0,0,0,0,0,0,0
+Day10,Familiar_unmatch,Aurora,0,11.579,0,0,0,0,2,0,0,0,1,0,0,1,0
+Day10,Familiar_unmatch,Feline,0,12.062,0,3.037,0,0,2,0,0,1,1,0,0,2,0
+Day10,Familiar_unmatch,Kobold,0,16.032,0,9.074,0,0,2,0,0,2,0,0,0,0,0
+Day10,Familiar_unmatch,Lokri,0,11.461,0,3.454,0,0,2,0,0,1,0,0,0,0,0
+Day10,Familiar_unmatch,Melvin,0,26.076,0,0,0,0,2,0,0,0,0,0,0,0,0
+Day11,Unfamiliar_match,Hr. Nilsson,0,19.553,1.001,0,0,8,2,2,1,0,0,0,5,0,0
+Day11,Unfamiliar_match,Kiara,0,10.21,0,2.586,0,6,2,0,0,1,0,0,0,0,0
+Day11,Unfamiliar_match,Matilda,0,32.982,0,0,0,0,2,4,0,0,2,0,5,0,0
+Day11,Unfamiliar_match,Nala,0,27.894,0,7.123,0,2,2,3,0,2,0,0,14,0,0
+Day11,Unfamiliar_match,Smart,0,29.046,0,2.853,0,0,2,1,0,1,0,0,0,0,0
+Day12,Unfamiliar_unmatch,Hr. Nilsson,3.036,15.816,0,8.542,1,6,2,0,0,2,0,1,18,0,0
+Day12,Unfamiliar_unmatch,Kiara,0,6.04,0,4.756,0,0,2,0,0,2,0,0,0,0,0
+Day12,Unfamiliar_unmatch,Matilda,0,14.615,2.803,0,0,0,2,0,1,0,2,1,0,0,0
+Day12,Unfamiliar_unmatch,Nala,7.357,21.738,0,11.796,2,0,3,1,0,4,0,0,0,0,0
+Day12,Unfamiliar_unmatch,Smart,0,24.024,3.236,12.196,0,0,3,0,1,3,0,0,0,0,0

@@ -1,0 +1,5 @@
+,Familiar_match,Familiar_unmatch,Unfamiliar_match,Unfamiliar_unmatch
+Familiar_match,1.0,1.0,0.7510124321312807,1.0
+Familiar_unmatch,1.0,1.0,0.11420876317247922,0.6189839973306132
+Unfamiliar_match,0.7510124321312807,0.11420876317247922,1.0,1.0
+Unfamiliar_unmatch,1.0,0.6189839973306132,1.0,1.0
